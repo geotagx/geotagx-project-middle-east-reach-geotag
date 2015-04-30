@@ -2,9 +2,8 @@
 	"name":"REACH Geotag the Photos",
 	"short_name":"reach_geo",
 	"category":"Emergency Shelter Assessment in the Middle East",
-	"description":"Geotag the photos so we can display them on a map",
-	"why":"TODO",
-	"icon_link":"http://img.static.reliefweb.int/sites/reliefweb.int/files/styles/attachment-large/public/resources-pdf-previews/152023-Syria_RegionalRefugeeCrisis_2013Jun18_HIU_U833.png?itok=viprIojm",
+	"description":"Geotag the photos so we can display them on a map.",
+	"why":"This project helps geotag photos for the emergency shelter assessment in the Middle East so they can be displayed on a map.",
 	"questions":[
 		{
 			"id":1,
