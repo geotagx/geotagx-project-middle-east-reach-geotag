@@ -4,14 +4,11 @@
 	"category":"Emergency Shelter Assessment in the Middle East",
 	"description":"Geotag the photos so we can display them on a map.",
 	"why":"This project helps geotag photos for the emergency shelter assessment in the Middle East so they can be displayed on a map.",
-	"questions":[
+	"questionnaire":[
 		{
-			"id":1,
-			"title":"Can you geo-localize the photo?",
-			"type":"geotagging",
-			"answer":{
-				"saved_as":"latlancoords"
-			}
+			"question":"Can you geo-localize the photo?",
+			"key":"latlancoords",
+			"type":"geotagging"
 		}
 	]
 }
